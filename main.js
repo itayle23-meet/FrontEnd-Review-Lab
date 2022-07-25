@@ -1,3 +1,3 @@
 function changeBackground(color) {
-	document.getElementsByTagName('body')style.background-color =red;
+	document.body.style.backgroundColor = color;
 }
